@@ -1,0 +1,12 @@
+seeds: [0, 1, 2, 3, 4]
+ablations:
+  - full
+  - no_quantum
+  - no_alignment
+  - no_mri_attention
+  - no_contrastive
+  - no_triplet
+  - classical_control
+quantum_variants:
+  qubits: [4, 6, 8, 10]
+  layers: [2, 4, 6, 8]
