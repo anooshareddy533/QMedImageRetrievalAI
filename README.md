@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/1467415386.svg)](https://doi.org/10.5281/zenodo.24438503)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/anooshareddy533/QMedImageRetrievalAI)
+
 # QMedImageRetrievalAI
 
 ## A Quantum-Enhanced Deep Learning Framework for Content-Based Retrieval of Multi-Modal Medical Images
